@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color: white;
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -8,8 +8,23 @@ body {
   width: 70%;
   padding: 1em;
   text-align: left;
-  border: 1px solid white;
+  border: 1px solid gray;
   margin: 0 auto;
+}
+
+#container #cabecera {
+  background-color: royalblue;
+  box-shadow: 0px 5px 30px 0px rgb(0, 0, 0, 0.75);
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  padding: 0.5em;
+}
+
+#container #cabecera #tagline {
+  padding: 0 0 0 1em;
+  font-weight: normal;
+  font-size: 0.8em;
 }
 
 #container h1 {
