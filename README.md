@@ -1,6 +1,7 @@
-# hyperblog
-Blog para curso de platzi git y github
+# Blog para curso de platzi git y github
+"hyperblog mejorado"
 
+Favor de no modificar este archivo a menos de ser necesario
 
 ## generate SSH KEY
 ~ ssh-keygen -t rsa -b 4096 -C "robert.hct@gmail.com"
@@ -28,3 +29,6 @@ Ya hecho el cambio se visualiza la siguiente url
 * git remote -v
 * origin  git@github.com:CETHER/hyperblog.git (fetch)
 * origin  git@github.com:CETHER/hyperblog.git (push)
+
+
+# "El equipo CETHERDEV se despide atentamente"
