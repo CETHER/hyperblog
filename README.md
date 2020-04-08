@@ -1,6 +1,7 @@
-# hyperblog
-Blog para curso de platzi git y github
+# Blog para curso de platzi git y github
+"hyperblog mejorado"
 
+Favor de no modificar este archivo a menos de ser necesario
 
 ## generate SSH KEY
 ~ ssh-keygen -t rsa -b 4096 -C "robert.hct@gmail.com"
